@@ -5,7 +5,6 @@ import me.dio.votacao_bbb_api.repository.ParametroRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
 import java.util.Optional;
 
 @RestController
